@@ -2,9 +2,14 @@
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sulakshan
 </h1>
 
-<h3 align="center">
-Software Engineering Undergraduate | Full-Stack Developer | UI/UX | AI
-</h3>
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=1F6FEB&center=true&vCenter=true&width=760&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;UI%2FUX+Designer;Quality+Assurance+%26+Business+Analysis;Artificial+Intelligence+%26+Cloud+Enthusiast"
+  alt="Typing Animation"
+/>
+
+</div>
 
 
 🚀 Passionate about **Full-Stack Development, Software Engineering & UI/UX Design**
