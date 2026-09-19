@@ -1,18 +1,11 @@
-<div align="center">
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sulakshan
+</h1>
 
-# Hi 👋, I'm Sulakshan
+<h3 align="center">
+Software Engineering Undergraduate | Full-Stack Developer | UI/UX | AI
+</h3>
 
-<img src="https://komarev.com/ghpvc/?username=SULAKSHAN-M&label=Profile%20Views&color=brightgreen&style=flat" />
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### 🔗 Software Engineering Undergraduate from Sri Lanka
 
 🚀 Passionate about **Full-Stack Development, Software Engineering & UI/UX Design**
 
