@@ -1,190 +1,466 @@
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sulakshan
+<div align="center">
+
+<h1>
+  Hi
+  <img
+    src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+    width="30"
+    alt="Waving hand"
+  />
+  I'm Sulakshan
 </h1>
 
-<h3 align="center">
-Software Engineering Undergraduate | Full-Stack Developer | UI/UX | AI
+<h3>
+Software Engineering Undergraduate | Full-Stack Developer | UI/UX | QA | AI
 </h3>
 
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&center=true&vCenter=true&width=760&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;UI%2FUX+Designer;Quality+Assurance+%26+Business+Analysis;Artificial+Intelligence+%26+Cloud+Enthusiast"
+  alt="Typing Animation"
+/>
 
-🚀 Passionate about **Full-Stack Development, Software Engineering & UI/UX Design**
+<br><br>
 
-🤖 Currently exploring **Artificial Intelligence, Cloud Technologies & Generative AI**
+<img
+  src="https://komarev.com/ghpvc/?username=SULAKSHAN-M&label=Profile+Views&color=21262d&style=flat-square"
+  alt="Profile Views"
+/>
 
-💻 Building modern **web applications, APIs and software systems**
+</div>
 
-🧪 Interested in **Quality Assurance, Software Testing & Business Analysis**
+---
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+🚀 Passionate about **Full-Stack Development, Software Engineering and UI/UX Design**
+
+🤖 Currently exploring **Artificial Intelligence, Cloud Technologies and Generative AI**
+
+💻 Building modern **web applications, REST APIs and software systems**
+
+🧪 Developing skills in **Quality Assurance, Software Testing and API Testing**
+
+📊 Interested in **Business Analysis, Requirements Engineering and Project Coordination**
 
 🎓 Currently pursuing a **B.Sc. in Software Engineering**
 
-⚡ Fun fact: I enjoy transforming ideas into practical software solutions.
+☁️ Learning modern **cloud platforms, deployment technologies and scalable application development**
+
+🎯 Focused on transforming ideas into reliable and practical software solutions.
 
 </td>
 
-<td width="42%" align="center">
+<td width="40%" align="center">
 
-<img src="./assets/developer.gif" width="350"/>
+<img
+  src="./assets/developer.gif"
+  width="330"
+  alt="Developer Animation"
+/>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## Languages and Tools 🛠️
+## 🎯 Current Focus
 
-<p align="left">
+```text
+Development      Full-Stack Web Applications
+Frontend         React.js, Next.js and Modern UI Development
+Backend          Node.js, Express.js, Flask and REST APIs
+Quality          Manual Testing, API Testing and Software QA
+Analysis         Business Analysis and Requirements Engineering
+Database         MongoDB, MySQL and PostgreSQL
+Cloud            Cloud Platforms and Application Deployment
+AI               Artificial Intelligence and Generative AI
+```
 
-<img src="https://skillicons.dev/icons?i=python" height="42"/>
-<img src="https://skillicons.dev/icons?i=java" height="42"/>
-<img src="https://skillicons.dev/icons?i=c" height="42"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="42"/>
-<img src="https://skillicons.dev/icons?i=cs" height="42"/>
-<img src="https://skillicons.dev/icons?i=html" height="42"/>
-<img src="https://skillicons.dev/icons?i=css" height="42"/>
-<img src="https://skillicons.dev/icons?i=js" height="42"/>
-<img src="https://skillicons.dev/icons?i=react" height="42"/>
-<img src="https://skillicons.dev/icons?i=nextjs" height="42"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="42"/>
-<img src="https://skillicons.dev/icons?i=express" height="42"/>
-<img src="https://skillicons.dev/icons?i=php" height="42"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="42"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="42"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="42"/>
-<img src="https://skillicons.dev/icons?i=git" height="42"/>
-<img src="https://skillicons.dev/icons?i=github" height="42"/>
-<img src="https://skillicons.dev/icons?i=figma" height="42"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="42"/>
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,php" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
+</p>
+
+---
+
+## 💼 Areas of Interest
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Full--Stack_Development-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/Frontend_Development-181717?style=for-the-badge&logo=react&logoColor=white">
+
+<img src="https://img.shields.io/badge/UI%2FUX_Design-181717?style=for-the-badge&logo=figma&logoColor=white">
+
+<img src="https://img.shields.io/badge/Quality_Assurance-181717?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Business_Analysis-181717?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Cloud_Computing-181717?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-181717?style=for-the-badge">
 
 </p>
 
 ---
 
-# Projects 💡
+# 🚀 Projects
 
-### 🔹 Full-Stack Development 🌐
+## 🌐 Full-Stack Development
 
-1. **Personal Portfolio** – [Repository](https://github.com/SULAKSHAN-M/personal-portfolio) – Full-stack portfolio developed using React.js, Node.js, Express.js and MongoDB.
+### Personal Portfolio
 
-2. **Next.js Real Estate Platform** – Repository – Modern real estate web application developed using Next.js, PostgreSQL and Drizzle ORM.
+Full-stack developer portfolio created to showcase projects, technical skills, professional experience and contact information.
 
-3. **Zoo Management System** – Repository – Web-based zoo management and online ticket reservation platform using PHP and MySQL.
+**Stack:** React.js · Node.js · Express.js · MongoDB · REST API · Vercel
 
-4. **WatchBase** – Repository – Modern movie discovery application powered by the TMDB API.
-
-5. **Student Record Management System** – [Repository](https://github.com/SULAKSHAN-M/csp3341-project) – Student information and academic record management application.
+[View Repository](https://github.com/SULAKSHAN-M/personal-portfolio)
 
 ---
 
-### 🔹 AI, Machine Learning & Intelligent Systems 🤖
+### Next.js Real Estate Platform
 
-1. **SLIATE Student Chatbot** – Repository – AI-powered assistant providing course, registration and student information.
+Modern real-estate web application designed for property browsing, management and database-driven functionality.
 
-2. **Email Spam Detector** – [Repository](https://github.com/SULAKSHAN-M/Email-Spam-Detector) – Machine-learning system for identifying spam and legitimate email messages.
+**Stack:** Next.js · PostgreSQL · Drizzle ORM
 
-3. **STREAMBERT** – Repository – Movie recommendation and discovery platform integrating TMDB services.
-
----
-
-### 🔹 Software Testing, QA & Business Analysis 🧪
-
-1. **Software Testing Projects** – Manual testing, functional testing, regression testing and test-case development.
-
-2. **API Testing Projects** – REST API testing and validation using Postman.
-
-3. **Requirements Analysis** – Requirements documentation, user stories and software project analysis.
-
-4. **UI/UX Design Projects** – User interface design, prototyping and usability-focused application development.
+`Add repository link`
 
 ---
 
-### 🔹 Other Software Projects 💻
+### Zoo Management System
 
-1. **Java Average Speed Calculator** – Java GUI application.
+Web-based zoo management and online ticketing platform containing administrative and public functionality.
 
-2. **Food Discount Calculator** – Java desktop application.
+Features include:
 
-3. **Number Guessing Game** – Java Swing-based interactive application.
+- Animal management
+- Ticket management
+- Online bookings
+- Sri Lankan and foreign visitor tickets
+- Reports
+- QR-supported bookings
+- Administrative content management
 
-4. **React Calculator** – React.js calculator application using modern React concepts.
+**Stack:** PHP · MySQL · Bootstrap · JavaScript · jQuery
 
-5. **Little Lemon Booking Application** – React-based reservation system.
-
-6. **Redux Shopping Application** – Shopping-cart implementation using Redux.
+`Add repository link`
 
 ---
+
+### WatchBase
+
+Modern movie discovery platform that allows users to explore movie information using external API services.
+
+**Stack:** React.js · JavaScript · REST API · TMDB API
+
+`Add repository link`
+
+---
+
+### Student Record Management System
+
+C# application designed to manage student information and academic records.
+
+The project demonstrates structured software development and programming paradigm concepts.
+
+**Stack:** C# · .NET · Object-Oriented Programming · Async Programming
+
+[View Repository](https://github.com/SULAKSHAN-M/csp3341-project)
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+### SLIATE Student Chatbot
+
+AI-powered chatbot designed to help students access course, registration and academic information.
+
+Features include:
+
+- AI-assisted responses
+- Student information support
+- Course information
+- Registration guidance
+- Theme switching
+- Downloadable chat history
+- REST API integration
+
+**Stack:** React.js · Flask · REST API · Artificial Intelligence
+
+`Add repository link`
+
+---
+
+### Email Spam Detector
+
+Machine-learning application designed to classify emails as either legitimate or spam.
+
+**Stack:** Python · Machine Learning · Data Processing
+
+[View Repository](https://github.com/SULAKSHAN-M/Email-Spam-Detector)
+
+---
+
+### STREAMBERT
+
+Movie discovery and recommendation application integrating external movie data through TMDB services.
+
+**Stack:** JavaScript · REST API · TMDB API
+
+`Add repository link`
+
+---
+
+## 🧪 Quality Assurance
+
+Developing practical knowledge in:
+
+```text
+Manual Testing
+Functional Testing
+Regression Testing
+Usability Testing
+Test Case Design
+Test Scenario Development
+Bug Reporting
+Defect Tracking
+API Testing
+Postman
+Requirements Validation
+Software Documentation
+```
+
+---
+
+## 📊 Business Analysis
+
+Developing knowledge and practical skills in:
+
+```text
+Requirements Gathering
+Requirements Analysis
+Functional Requirements
+Non-Functional Requirements
+User Stories
+Use Cases
+Acceptance Criteria
+Workflow Analysis
+Process Documentation
+Stakeholder Communication
+Project Coordination
+Software Documentation
+```
+
+---
+
+## ☕ Java Applications
+
+### Average Speed Calculator
+
+Java GUI application designed to calculate average speed using user-provided distance and time values.
+
+**Stack:** Java · GUI Development
+
+---
+
+### Food Discount Calculator
+
+Java desktop application for calculating food-order discounts based on predefined business rules.
+
+**Stack:** Java · GUI Development
+
+---
+
+### Number Guessing Game
+
+Interactive number guessing game developed using Java Swing with timer functionality.
+
+**Stack:** Java · Swing
+
+---
+
+## ⚛️ React Projects
+
+### React Calculator
+
+Interactive calculator developed using React and modern React concepts.
+
+**Stack:** React.js · JavaScript
+
+---
+
+### Little Lemon Booking Application
+
+Restaurant reservation application developed using React.
+
+Includes:
+
+- Form validation
+- Accessibility considerations
+- Booking functionality
+- Testing
+
+**Stack:** React.js · JavaScript
+
+---
+
+### Redux Shopping Application
+
+Shopping-cart application demonstrating centralized state management and dynamic calculations.
+
+**Stack:** React.js · Redux · JavaScript
+
+---
+
+## 📂 More Projects
 
 <details>
-<summary><b>📁 More Projects & Experiments</b></summary>
+
+<summary><b>View Additional Projects</b></summary>
 
 <br>
 
-- Rubik's Cube – Three.js
+- Rubik's Cube using Three.js
 - 2D Platformer Game
 - Windows Forms Billing Application
 - Django Quiz Application
 - Node.js Bookstore
 - Python Programming Projects
-- React Front-End Projects
+- React Frontend Projects
 - REST API Projects
 - Database Management Projects
 - UI/UX Prototypes
+- Responsive Web Applications
+- API Testing Projects
+- Software Testing Projects
 
 </details>
 
 ---
 
-# Module Repositories 📖
+## 🎓 Certifications
 
-1. **Programming Languages and Paradigms** – [Repository](https://github.com/SULAKSHAN-M/csp3341-project)
+### Google IT Support Professional Certificate
 
-2. **Web Application Development** – Repository
+Professional training covering:
 
-3. **Database Management Systems** – Repository
-
-4. **Software Engineering** – Repository
-
-5. **Object-Oriented Programming** – Repository
-
-6. **Human Computer Interaction** – Repository
-
-7. **Software Testing & Quality Assurance** – Repository
-
-8. **Cloud & AI Development** – Repository
+- IT Support Fundamentals
+- Computer Networking
+- Operating Systems
+- System Administration
+- Troubleshooting
+- IT Security
 
 ---
 
-# Connect with Me 🤝
+### Google UX Design Professional Certificate
 
-<p align="left">
+Professional training covering:
 
-<a href="mailto:sulakshan1202@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SULAKSHAN-M">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+- UX Research
+- Wireframing
+- Prototyping
+- Usability Testing
+- Accessibility
+- User-Centered Design
 
 ---
 
-# GitHub Stats 📊
+### Python for Everybody Specialization
+
+Programming specialization covering:
+
+- Python Fundamentals
+- Data Structures
+- Databases
+- APIs
+- Web Data
+- Application Development
+
+---
+
+## 🔄 Software Development Workflow
+
+```text
+Requirements
+     │
+     ▼
+Planning
+     │
+     ▼
+UI / UX Design
+     │
+     ▼
+Development
+     │
+     ▼
+Database & API Integration
+     │
+     ▼
+Testing
+     │
+     ▼
+Deployment
+     │
+     ▼
+Maintenance & Improvement
+```
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SULAKSHAN-M&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=SULAKSHAN-M&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+  alt="GitHub Statistics"
+/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SULAKSHAN-M&theme=dark&hide_border=true"/>
+<img
+  width="49%"
+  src="https://streak-stats.demolab.com?user=SULAKSHAN-M&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -192,16 +468,102 @@ Software Engineering Undergraduate | Full-Stack Developer | UI/UX | AI
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SULAKSHAN-M&layout=compact&theme=dark&hide_border=true"/>
+<img
+  width="45%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SULAKSHAN-M&layout=compact&theme=github_dark&hide_border=true&langs_count=10"
+  alt="Most Used Languages"
+/>
 
 </div>
 
 ---
 
+## 📊 Contribution Activity
+
 <div align="center">
 
-### 💻 Building • Learning • Improving
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=SULAKSHAN-M&theme=github-compact&hide_border=true&area=true"
+  width="100%"
+  alt="Contribution Activity"
+/>
 
-⭐ **Thanks for visiting my GitHub profile!**
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=SULAKSHAN-M&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
+  alt="GitHub Achievements"
+/>
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/SULAKSHAN-M/SULAKSHAN-M/output/github-contribution-grid-snake-dark.svg"
+  alt="Contribution Snake"
+/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img
+    src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
+<a href="mailto:sulakshan1202@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="https://github.com/SULAKSHAN-M">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### 💻 Software Engineering | Full-Stack Development | Quality Assurance | Business Analysis
+
+**Building · Testing · Designing · Learning · Improving**
+
+<br>
+
+⭐ Thanks for visiting my GitHub profile!
 
 </div>
